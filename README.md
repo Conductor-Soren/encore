@@ -21,7 +21,7 @@ For this design I focused on keeping things compact yet modular. Each major asse
 | Motion| MGN9C X/Y gantry, 8mm linear rod Z + 8mm leadscrew|
 | Cooling| 4015 blower (print head) + dual 7515 blower (aux)|
 
-<br>
-Note: BOM and instructions currently WIP.
+# BOM and assembly
+View the list of printed and non-printed parts [here](documentation/BOM.md).
 
-
+Assembly guide still WIP.
