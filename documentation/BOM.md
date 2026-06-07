@@ -4,7 +4,7 @@
 
 ### Fasteners
 | Part                          | Qty | Links | Notes |
-| ----------------------------- | :-: | :---: | ----- |
+| ----------------------------- | :-: | ----- | ----- |
 | M3 lock nut                   | 115 | [AliEx](https://a.aliexpress.com/_mLw8goT) | 1 (100ct) & 1 (25ct) |
 | M3 x 6 button head            |  15 |[AliEx](https://a.aliexpress.com/_mrdkhlD) | Kit Covers 8, 12, 16,<br> 20, 25, 30 |
 | M3 x 8 button head            |  10 | Part of Kit||
@@ -18,13 +18,6 @@
 | Bed leveling knobs            |   3 | [AliEx](https://a.aliexpress.com/_mLkawzV) | Cheap kit for Knobs and Spacers |
 | Bed springs/silicone spacers  |   3 | Part of Kit | Either Springs or<br>Silicone |
 
-### Notes
-- The design uses common bolt lengths. A simple way to get all of these in a cost effective way is as follows:
-  1. Get an M3 button head bolt kit, 6-30mm lengths ([Amazon](https://www.amazon.com/dp/B0F7LK7WGS), [Aliexpress](https://www.aliexpress.us/item/3256805285897325.html))
-  2. Grab a 100 pack of M3x10mm bolts ([Amazon](), [Aliexpress](https://www.aliexpress.us/item/3256805282614111.html)).
-  3. Grab a bulk pack of M3 lock nuts ([Amazon](https://www.amazon.com/Yinpecly-Stainless-Self-Locking-Industrial-Construction/dp/B0F1MSSVQP), [Aliexpress - need at least 2](https://www.aliexpress.us/item/2251832802681129.html)).
-- The bed leveling items (last 3) can usually be purchased together as a complete leveling kit. Get the type with the smallest plastic knobs or metal thumbscrews - larger sizes will not fit.
-
 
 ### Motion
 | Part                                                  |  Qty | Links | Notes |
@@ -36,7 +29,7 @@
 | 150mm T8 leadscrew, 2mm lead, with nut                |    1 | [AliEx](https://a.aliexpress.com/_mMZpsg7) ||
 | 5mm to 8mm Z coupler (plum type or rigid recommended) |    1 | [AliEx](https://a.aliexpress.com/_mLIxeAf) | Size: 5x8x25 |
 | 2GT belt, 6mm wide                                    | ~3m  | [AliEx](https://a.aliexpress.com/_mtXOk1d) | Get 5m Roll |
-| 16T 2GT pulley for 6mm width belt                     |    2 | [AliEx](https://a.aliexpress.com/_msX7f11) | I Don't Know<br>the Bore Size Yet |
+| 16T 2GT pulley for 6mm width belt                     |    2 | [AliEx](https://a.aliexpress.com/_msX7f11) | 5mm Bore |
 
 
 ### Heating and extrusion
