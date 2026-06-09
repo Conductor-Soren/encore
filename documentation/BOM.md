@@ -64,10 +64,20 @@
 | IEC power cord                                                           |   1 |
 
 Notes:
-- Current files provide mounting for an Ender 3 footprint mainboard. I'm currently using a MellowFly E3 Pro V3 RRF board. More mounting options to come.
+- Current files provide mounting for an Ender 3 footprint mainboard. I'm currently using a Mellow Fly E3 Pro V3 RRF board. More mounting options to come.
 
 
 ## Printed parts
+
+Notes:
+- All parts should fit on a printer with a 220mm build area. Max dimension is 218x220mm for the side panels. If printing on something like an Ender 3, you'll need to make sure that you're able to make use of the full build area as there's no extra room to spare.
+- I used PETG for all my parts and they've held up nicely, but I also don't print ABS/ASA/etc. If printing those higher bed temp filaments, I'd recommend printing all the carriage parts as well as the bed support bracket in ASA/ABS.
+- Print settings:
+  - Layer height: 0.2mm
+  - Walls: >4
+  - Top/bottom layers: >4
+  - Infill: >30%
+  - Supports off
 
 ### Gantry
 | Part                    | Qty |
@@ -113,7 +123,7 @@ Notes:
 | Right panel  |   1 |
 | Rear panel   |   1 |
 | Bottom case  |   1 |
-| Aux fan duct |   2 |
+| Aux fan duct (optional) |   2 |
 
 ### Electronics
 | Part                       | Qty |
